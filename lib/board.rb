@@ -1,6 +1,7 @@
 # Define the variable board below.
-row = [" ", " ", " "]
+board = Array.new (row = [" ", " ", " "]
 
 row1 = [" ", " ", " "]
 
 row2 = [" ", " ", " "]
+)
